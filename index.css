@@ -1,0 +1,78 @@
+#theCasino{
+ border-radius: 15px;   
+ border:  solid 3px white;
+ color: white;
+ width: 40%;
+ text-align: center;
+ margin: 0 auto;
+ font-size: 20px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+#left{
+    float: left;
+    width: 49%;
+    border:  solid 3px white;
+    border-radius: 15px;  
+}
+#right{
+    float: right;
+    width: 49%;
+    color: white;
+}
+.input{
+    color: white;
+    font-size: 25px;
+    height: 27px;
+}
+.input2{
+    color: white;
+    background-color:black;
+    font-size: 20px;
+    width: 110px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    
+}
+#jeu{
+    margin-top: 30px;
+    margin-left: 20%;
+    margin-bottom: 30px;
+}
+#go{
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: crimson;
+    color: white;
+    margin-left: 40%;
+    margin-bottom: 35px;
+}
+#go:hover{
+    width: 110px;
+    height: 40px;
+    margin-left: 39%;
+    background-color: greenyellow;
+    color: black;
+    
+}
+#numeroGagnant{
+    width: 80px;
+    height: 70px;
+    background-color: black;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.image{
+    width: 22%;
+    height: 200px;
+    margin: 10px;
+}
+
+#result-text{
+    font-size:30px;
+}
